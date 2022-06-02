@@ -1,0 +1,17 @@
+{
+  "notice": [
+    { "id": 1, "title": "Notice A", "content": "Notice Content A" },
+    { "id": 2, "title": "Notice B", "content": "Notice Content B" },
+    { "id": 3, "title": "Notice C", "content": "Notice Content C" }
+  ],
+  "freeboard": [
+    { "id": 1, "title": "Freeboard A", "content": "Freeboard Content A" },
+    { "id": 2, "title": "Freeboard B", "content": "Freeboard Content B" },
+    { "id": 3, "title": "Freeboard C", "content": "Freeboard Content C" }
+  ],
+  "discuss": [
+    { "id": 1, "title": "Discuss A", "content": "Discuss Content A" },
+    { "id": 2, "title": "Discuss B", "content": "Discuss Content B" },
+    { "id": 3, "title": "Discuss C", "content": "Discuss Content C" }
+  ]
+}
